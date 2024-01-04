@@ -82,6 +82,22 @@ body {
     left: 46px;
 } .xbox .face.down {
     background-position: -54px 63px;
+    } .xbox .touchpad {
+    width: 333px;
+    height: 177px;
+    position: absolute;
+    left: 237px;
+    top: 118px;
+} .xbox .touchpad.pressed {
+    background: url(https://imgur.com/78UZdwp.png) no-repeat center;
+}.xbox .meta {
+    width: 51px;
+    height: 40px;
+    position: absolute;
+    left: 378px;
+    bottom: 255px;
+}.xbox .meta.pressed {
+    background: url(https://imgur.com/vJ4YyEZ.png) no-repeat center;
     width: 52px;
     height: 63px;
     left: 46px;
